@@ -1,13 +1,4 @@
-# TTC Subway Delay Analysis – Final Project (INF1340)
-
-**University of Toronto**
-**Faculty of Information**
-**Master of Information Program**
-**INF1340H – Programming for Data Science**
-
-**Students:** Ahmed Balfaqih - 1012820930, David Kalliny - 1008558614, Abdullah Qaisar – 1003065416
-
-**Instructor:** Dr. Maher Elshakankiri**
+# TTC Subway Delay Analysis
 
 **Project Title:** TTC Subway Delay Data (2024–2025) – Comprehensive Analytical Pipeline
 
