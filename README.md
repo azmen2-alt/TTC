@@ -255,6 +255,6 @@ Instructor: **Dr. Maher Elshakankiri**
 # License
 
 MIT License
-© 2025 University of Toronto – Student Submission (INF1340)
+© 2025
 ---
 <img width="468" height="640" alt="image" src="https://github.com/user-attachments/assets/7b1808fb-5bf1-4d6d-b2f4-3b4d707a4e10" />
